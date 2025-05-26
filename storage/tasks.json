@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Primera Tarea",
+        "status": "en progreso"
+    },
+    {
+        "id": 2,
+        "title": "Tarea Limpiar el Patio",
+        "status": "pending"
+    }
+]
